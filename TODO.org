@@ -1,3 +1,0 @@
-* Funcitonality
-- Execute needs to be expanded so function declareations is more natural, ideally you'd only have to provide the function and the system will automatically wrap it in a lambda and apply the correct wrappings to the args that can only reference that comps data ect.
-- Comps needs a hitbox so they can be cleared before they're drawn and for collisions. Maybe a heading in the state that keeps track of all enety hitboxes
